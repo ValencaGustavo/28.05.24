@@ -1,0 +1,24 @@
+Sistemas Operacionais
+
+O que é?
+
+Sistemas operacionais (SO) são softwares responsavéis por gerenciar o funcionamento de todos os recursos hardwares e softwares de sua máquina, fazendo que os programas de sua máquina funcionem corretamente. Os mais conhecidos são Windows, Linux, MacOS.
+
+Qual a função de um sistema operacional?
+
+O sistema operacional faz a interface do computador com o usuário, executa os softwares próprios ou de terceiros, reconhece os dados digitados no teclado e organiza essas informações no disco rígido ou nas memórias flash, envia dados para o monitor de vídeo, controla periféricos (mouses, impressoras, webcams, dispositivos de áudio e vídeo etc.), administra o acesso da máquina às redes e identifica e recupera erros.
+
+Evolução do sistema operacional:
+
+Nos dias atuais, na 5° geração de computadores, não se limita mais aos desktops, laptops e mainframes. Vemos a presença de vários outros dispositivos, como: celulares, auto-móveis automáticos e IoT
+
+Sistemas operacionais mais utilizados no dia à dia:
+
+Pesquisas mostram que tanto para o uso pessoal e profissional, o Windows sai em vantagem dos demais. Sendo 62.33% para uso pessoal e 48.82% para uso profissional no SO Windows. 40.23% para uso pessoal e 39.89% para uso profissional do Linux e 31.07% para uso pessoal e 32.97% para o uso profissional do MacOS
+
+
+
+BIBLIOGRAFIA: 
+
+https://www.alura.com.br/artigos/sistemas-operacionais-conceito-estrutura
+https://www.insper.edu.br/noticias/o-que-e-um-sistema-operacional-e-quais-sao-os-principais/
